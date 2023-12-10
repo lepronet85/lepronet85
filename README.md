@@ -1,29 +1,29 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Welcome to my GitHub profile! 👋
 
-## À propos de moi ℹ️
-Je suis un développeur fullstack expérimenté passionné par la création d'applications innovantes. Ma maîtrise des technologies telles que React, React Native, PHP et JavaScript me permet de concevoir des solutions robustes et évolutives.
+## About me ℹ️
+I am an experienced fullstack developer passionate about creating innovative applications. My mastery of technologies such as React, React Native, PHP and JavaScript allows me to design robust and scalable solutions.
 
-## Expérience professionnelle 💼
-- Intégration de la facture certifiée de la DGI à Dolibarr
-- Développement de fonctionnalités avancées en comptabilité pour Dolibarr, notamment l'intégration du grand livre, du journal et de la balance
-- Ajout de fonctionnalités Takepos pour la gestion de la restauration à Dolibarr
-- Conception du site web pour Cybertech Niger
-- Création des applications mobiles Le Noble Bac UEMOA v1 et v2 disponibles sur le Play Store
+## Professional experience 💼
+- Integration of the DGI certified invoice into Dolibarr
+- Development of advanced accounting functionalities for Dolibarr, notably the integration of the general ledger, journal and balance
+- Adding Takepos features for catering management to Dolibarr
+- Website design for Cybertech Niger
+- Creation of the Le Noble Bac UEMOA v1 and v2 mobile applications available on the Play Store
 
 ## Compétences 🚀
-- Langages : React, React Native, PHP, JavaScript
-- Autres compétences : Figma, Agile, Flutter, Django
+- Languages: React, React Native, PHP, JavaScript
+- Other skills: Figma, Agile, Flutter, Django
 
-## Projets GitHub 🌟
+## GitHub Projects 🌟
 
 
-N'hésite pas à me contacter pour discuter de collaborations ou de projets intéressants ! 📧
+Don't hesitate to contact me to discuss collaborations or interesting projects! 📧
 
-## Total des étoiles sur tous tes dépôts
+## Total stars on all your deposits
 
-![Étoiles totales](https://img.shields.io/github/stars/lepronet85?affiliations=OWNER&style=social)
+![Total stars](https://img.shields.io/github/stars/lepronet85?affiliations=OWNER&style=social)
 
-## Nombre total de followers
+## Total number of followers
 
 ![Followers](https://img.shields.io/github/followers/lepronet85?style=social)
 
