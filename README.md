@@ -26,7 +26,3 @@ N'hésite pas à me contacter pour discuter de collaborations ou de projets int�
 ## Nombre total de followers
 
 ![Followers](https://img.shields.io/github/followers/lepronet85?style=social)
-
-## Statistiques sur les contributions au cours des dernières semaines
-
-![Statistiques des contributions sur les dernières semaines](https://img.shields.io/github/commit-activity/w/lepronet85?style=social)
