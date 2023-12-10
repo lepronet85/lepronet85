@@ -19,7 +19,7 @@ I am an experienced fullstack developer passionate about creating innovative app
 
 Don't hesitate to contact me to discuss collaborations or interesting projects! 📧
 
-## Total stars on all your deposits
+## Total stars
 
 ![Total stars](https://img.shields.io/github/stars/lepronet85?affiliations=OWNER&style=social)
 
