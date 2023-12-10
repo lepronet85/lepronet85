@@ -18,3 +18,6 @@ Je suis un développeur fullstack expérimenté passionné par la création d'ap
 
 
 N'hésite pas à me contacter pour discuter de collaborations ou de projets intéressants ! 📧
+
+
+![Étoiles totales](https://img.shields.io/github/stars/lepronet85?affiliations=OWNER&style=social)
