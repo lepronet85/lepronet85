@@ -34,7 +34,7 @@ N'hésite pas à me contacter pour discuter de collaborations ou de projets int�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lepronet85&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![committers.top badge](https://user-badge.committers.top/niger_private/Mahamadou-Nouridine.svg)](https://user-badge.committers.top/niger_private/lepronet85)
+[![committers.top badge](https://user-badge.committers.top/niger_private/lepronet85.svg)](https://user-badge.committers.top/niger_private/lepronet85)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lepronet85&label=Profile%20views&color=0e75b6&style=flat" alt="lepronet85" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
