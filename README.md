@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**lepronet85/lepronet85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi ℹ️
+Je suis un développeur fullstack expérimenté passionné par la création d'applications innovantes. Ma maîtrise des technologies telles que React, React Native, PHP et JavaScript me permet de concevoir des solutions robustes et évolutives.
 
-Here are some ideas to get you started:
+## Expérience professionnelle 💼
+- Intégration de la facture certifiée de la DGI à Dolibarr
+- Développement de fonctionnalités avancées en comptabilité pour Dolibarr, notamment l'intégration du grand livre, du journal et de la balance
+- Ajout de fonctionnalités Takepos pour la gestion de la restauration à Dolibarr
+- Conception du site web pour Cybertech Niger
+- Création des applications mobiles Le Noble Bac UEMOA v1 et v2 disponibles sur le Play Store
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences 🚀
+- Langages : React, React Native, PHP, JavaScript
+- Autres compétences : Figma, Agile, Flutter, Django
+
+## Projets GitHub 🌟
+
+
+N'hésite pas à me contacter pour discuter de collaborations ou de projets intéressants ! 📧
